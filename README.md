@@ -1,5 +1,6 @@
 # Experiment 8: Functional Verification of Asynchronous FIFO
-
+## Giri R
+## 212223060068
 ---
 
 ## Aim  
@@ -189,7 +190,8 @@ endmodule
 ```
 ### Simulation Output
 
---- Paste the output here
+<img width="1920" height="1080" alt="Screenshot 2025-11-10 100204" src="https://github.com/user-attachments/assets/27564905-3692-4a81-9a68-6e1aba0c1355" />
+
 
 ### Result
 
